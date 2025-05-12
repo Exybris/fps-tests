@@ -1,0 +1,14 @@
+{
+  "name": "sigma03_N50_sh100_wdyn",
+  "_comment": "Phase-1 : poids w1,w2 dynamiques, w3=0",
+  "N": 50,
+  "dt": 0.1,
+  "T": 2000,
+  "alpha_A": 0.05,
+  "alpha_K": 0.05,
+  "alpha_g": 0.05,
+  "sigma_omega": 0.3,
+  "shock_interval": 100,
+  "H0": 0.6,
+  "tau_H": 0.05
+}
